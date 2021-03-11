@@ -7,6 +7,7 @@ This is a php based **CRUD (Create-read-update-delete)** web application which a
 ## Technologies
 
 We have a simple but robust **MYSQL** database accessed using **PHP PDO** libraries with *model-view-controller* format php code for the individual pages and a some bits of data validation, form validation using **Javascript** functions and session validations. P.S (we do divulge in cookie business :cookie: )
+
 P.P.S Not too heavy on the styling with only some minimalistic CSS with table and form styling.
 
 ## How to use
